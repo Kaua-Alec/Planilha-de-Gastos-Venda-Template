@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "cd finance-dashboard && npm run dev",
+    "build": "cd finance-dashboard && npm run build",
+    "lint": "cd finance-dashboard && npm run lint",
+    "start": "cd finance-dashboard && npm start"
+  }
+}
